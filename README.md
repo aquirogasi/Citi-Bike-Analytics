@@ -2,7 +2,7 @@
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
-Through an analysis of the New York Citi Bike Program (2018), the objective of this project is to aggregate the data found in the Citi Bike Trip History Logs to find unexpected phenomena. Tableau will be used to analyse the data through visual intelligence.
+Through an analysis of the New York Citi Bike Program 2018 data set, the objective of this project is to aggregate the data found in the Citi Bike Trip History Logs to find unexpected phenomena. Tableau will be used to analyse the data through visual intelligence.
 
 Some of the principal areas of analysis:
 
