@@ -3,7 +3,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 Through an analysis of the New York Citi Bike Program 2018 data set, the objective of this project is to aggregate the data found in the Citi Bike Trip History Logs to find unexpected phenomena. Tableau will be used to analyse the data through visual intelligence.
 
-Some of the principal areas of analysis:
+# Some of the principal areas of analysis:
 
 How many trips have been recorded total during the chosen period?
 
