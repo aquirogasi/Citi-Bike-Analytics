@@ -60,6 +60,6 @@ How variable is the utilization by bike ID?
 
 .[UBER NYC Open Data](https://data.cityofnewyork.us/Transportation/uber-Data/3jeu-mn7j)
 
-# Visualizations:
+# Visualizations and Analysis:
 
-(images/Citibike1.png)
+![total ridership grown](images/Citibike1.png)
