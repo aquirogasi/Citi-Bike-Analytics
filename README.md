@@ -64,4 +64,4 @@ How variable is the utilization by bike ID?
 
 ![total ridership grown](images/Citibike1.png)
 
-
+![UBER vs Citibike](images/Citibike2.png)
