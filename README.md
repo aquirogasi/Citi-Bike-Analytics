@@ -56,7 +56,7 @@ How variable is the utilization by bike ID?
 
 .[Citi Bike Ridership](https://datawrapper.dwcdn.net/cZMp8/5/)
 
-.[NYC Weather Facts(https://www.nyc.com/visitor_guide/weather_facts.75835/)
+.[NYC Weather Facts](https://www.nyc.com/visitor_guide/weather_facts.75835/)
 
 .[UBER NYC Open Data](https://data.cityofnewyork.us/Transportation/uber-Data/3jeu-mn7j)
 
