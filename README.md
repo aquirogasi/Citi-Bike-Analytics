@@ -63,3 +63,5 @@ How variable is the utilization by bike ID?
 # Visualizations and Analysis:
 
 ![total ridership grown](images/Citibike1.png)
+
+
