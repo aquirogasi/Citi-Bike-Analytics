@@ -48,3 +48,11 @@ Which bikes (by ID) are most likely due for repair or inspection in the timespan
 
 
 How variable is the utilization by bike ID?
+
+# Datasts Used:
+
+.[Citi Bike Trip Data](https://s3.amazonaws.com/tripdata/index.html)
+.[Citi Bike Ridership](https://datawrapper.dwcdn.net/cZMp8/5/)
+.[NYC Weather Facts(https://www.nyc.com/visitor_guide/weather_facts.75835/)
+.[UBER NYC Open Data](https://data.cityofnewyork.us/Transportation/uber-Data/3jeu-mn7j)
+
