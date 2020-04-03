@@ -62,4 +62,4 @@ How variable is the utilization by bike ID?
 
 # Visualizations:
 
-(image/Citibike1.png)
+(images/Citibike1.png)
